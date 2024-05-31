@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">MyBookApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ana_sayfa">Ana Sayfa</string>
+    <string name="arama">Arama</string>
+    <string name="favori">Favori</string>
+    <string name="namebook">nameBook</string>
+    <string name="category">category</string>
+    <string name="author">author</string>
+    <string name="namebook1">nameBook</string>
+    <string name="category1">category</string>
+    <string name="author1">author</string>
+    <string name="irem_gmail_com">irem@gmail.com</string>
+    <string name="e_mail_giriniz">E-Mail Giriniz</string>
+    <string name="irem1234">irem1234</string>
+    <string name="Sifre_giriniz">Şifre Giriniz</string>
+    <string name="kay_tl_m_s_n_giri_yap">Kayıtlı mısın? Giriş Yap</string>
+    <string name="kay_t_ol">Kayıt Ol</string>
+    <string name="iremmail">irem@gmail.com</string>
+    <string name="e_mail_giriniz1">E-Mail Giriniz</string>
+    <string name="irem12341">irem1234</string>
+    <string name="ifre_giriniz">Şifre Giriniz</string>
+    <string name="kay_t_ol1">Kayıt Ol</string>
+    <string name="giri">Giriş</string>
+    <string name="favorite_fragment">Favorite Fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="search1">Search</string>
 </resources>
